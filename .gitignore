@@ -1,0 +1,18 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Private/course documents and bundled archives
+/New folder/
+*.pdf
+*.docx
+*.rar
+*.7z
+
+# Regenerable, potentially large experiment logs
+**/results/*.csv
+**/results/*.txt
+q_learning_log.txt
+sarsa_log.txt
