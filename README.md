@@ -71,13 +71,3 @@ These papers provide background on themes explored here; this repository is not 
 - Taourirte, A. & Mia, M. S. (2025). [Multi-Agent Reinforcement Learning and Real-Time Decision-Making in Robotic Soccer for Virtual Environments](https://arxiv.org/abs/2512.03166). A preprint comparing approaches in virtual soccer; reported numbers belong to that paper’s setup and are not results from this repository.
 
 The original workspace also contains course instructions, student reports, source-paper PDFs, and an archive. Those materials are intentionally not included: they are not required to run the code, may have redistribution restrictions, and some contain personal/course information. Cite and redistribute source papers according to their own terms.
-
-## Resume summary
-
-> Built a modular reinforcement-learning soccer simulation study comparing tabular TD and Actor–Critic methods, DQN/PPO, DDPG, and independent versus CTDE multi-agent policies; added experiment logging, heuristic baselines, and result-analysis tools.
-
-Only add quantitative claims to a resume after checking the relevant CSVs, seeds, and evaluation setup.
-
-## License
-
-No license is currently specified. Add a license only after confirming that you have the right to publish the code under the chosen terms.
